@@ -9,7 +9,7 @@
 # make sure to insert it in the correspoing places
 # which are shown around the code
 # WARNING: THE CODE DOESN'T DERIVATE THE FUNCTION
-# USE MY OTHER CODE FOR KNOWING THE DERIVATIVE OF THE FUNCTION
+
 
 
 # Please insert your function in func
